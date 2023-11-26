@@ -21,9 +21,6 @@ const VideoDetail = () => {
       .then((data) => setVideos(data.items))
   }, [id]);
 
-  console.log(VideoDetail.snippet);
-
-
   if (!VideoDetail?.snippet) return 'Loading';
 
   const { snippet: {title, channelId, channelTitle }, statistics: { viewCount, likeCount } } = VideoDetail;

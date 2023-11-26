@@ -27,7 +27,6 @@ export const categories = [
   { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
