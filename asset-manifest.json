@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/You2be/static/css/main.6527bfdd.css",
+    "main.js": "/You2be/static/js/main.e577d9dc.js",
+    "index.html": "/You2be/index.html",
+    "main.6527bfdd.css.map": "/You2be/static/css/main.6527bfdd.css.map",
+    "main.e577d9dc.js.map": "/You2be/static/js/main.e577d9dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6527bfdd.css",
+    "static/js/main.e577d9dc.js"
+  ]
+}
